@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/hhhameem/frontend-mentor)
-- Live Site URL: [Netlify](https://fm-hhhameem-nft-preview-card-component.netlify.app/)
+- Live Site URL: [Netlify](https://fm-hhhameem-order-summary-component.netlify.app/)
 
 ## My process
 
